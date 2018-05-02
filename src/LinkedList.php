@@ -106,4 +106,14 @@ class LinkedList
 
         return $this;
     }
+
+    /**
+     * @return int
+     */
+    public function getCount()
+    {
+        return $this->count;
+    }
+
+
 }

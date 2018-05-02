@@ -21,6 +21,7 @@
   "require": {
   },
   "require-dev": {
-    "symfony/var-dumper": "3.4.9"
+    "symfony/var-dumper": "3.4.9",
+    "codeception/codeception": "^2.4.1"
   }
 }
