@@ -1,0 +1,26 @@
+{
+  "name": "vbpupil/single-linked-list",
+  "description": "Simple single linked list mechanism.",
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "list",
+    "linked",
+    "list"
+  ],
+  "authors": [
+    {
+      "name": "Dean Haines",
+      "email": "vbpupil@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "vbpupil\\" : "src"
+    }
+  },
+  "require": {
+  },
+  "require-dev": {
+    "symfony/var-dumper": "3.4.9"
+  }
+}
